@@ -1,0 +1,4 @@
+com\frameforge\controller\VideoController.class
+com\frameforge\config\CorsConfig.class
+com\frameforge\FrameForgeApplication.class
+com\frameforge\service\VideoService.class
